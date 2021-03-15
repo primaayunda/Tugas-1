@@ -1,12 +1,11 @@
-nilai = 50
+# ujian_teori = str(input("Masukkan nilai ujian teori: "))
+# ujian_praktek = str(input("Masukkan nilai ujian praktek:  "))
 
-if a >= 90:
-  print('Predikat A')
-elif a >= 80:
-  print('Predikat B')
-elif a >= 60:
-  print('Predikat C')
-elif a >= 40:
-  print('Predikat D')
-else:
-  print('Predikat E')
+# if ujian_teori or ujian_praktek >= "70":
+#   print ("Selamat, anda lulus!")
+# elif ujian_teori >= "70" or ujian_praktek < "70":
+#   print ("Anda harus mengulang ujian praktek.")
+# elif ujian_teori < "70" or ujian_praktek >= "70":
+#   print ("Anda harus mengulang ujian teori.")
+# else:
+#   print ("Anda harus mengulang ujian teori dan praktek")
