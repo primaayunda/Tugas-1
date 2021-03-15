@@ -1,6 +1,6 @@
 phi = 22/7
 r = int(input("Masukkan jari-jari lingkaran: "))
-L = phi*r**2
+L = phi*r*r
 
 print("Luas lingkaran dengan jari-jari {}cm adalah {}cm\u00b2".format(r, L))
 
